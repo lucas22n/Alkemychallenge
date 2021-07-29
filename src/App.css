@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #6C4D8C;
+  ;
+}
+.form-control{
+  width: 75%;
+  
+}
+.form-group{
+  float: center;
+  margin-top: 10%;
+}
+
+.badge{
+  margin: auto;
+  font-size: larger;
+}
+th{
+  color:white;
+}
+td{
+  color:white;
+}
+
