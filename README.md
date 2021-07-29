@@ -1,3 +1,11 @@
+#Previous steps:
+You have to run below commands to install required dependencies:
+
+npm i react-router-dom
+npm i react-facebook-login
+npm i bootstrap
+npm i gh-pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
